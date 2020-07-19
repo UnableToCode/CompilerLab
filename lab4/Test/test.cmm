@@ -1,0 +1,13 @@
+int main()
+{
+    int i=0;
+    i=i+1;
+    float x=0.8,y=1.,z=.99,y1=00.9;
+    z1=(x | y);
+    if(x>=y)
+        return 0;
+    else
+        return 1;
+    int outcome=1*77,o1=2/54;
+    float 1zaf=9.9;
+}

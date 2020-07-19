@@ -1,0 +1,10 @@
+int test5(int a, int b)
+{
+	int c = 3;
+	int d[12];
+	while(c < a) {
+		c = c + 1;
+		d[c] = d[] - 1;
+	}
+	return b;
+}

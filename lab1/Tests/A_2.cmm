@@ -1,0 +1,7 @@
+int sub(int a, int b)
+{
+    int c = a + b - a * b / 3;
+    int d = !a && b || c >= 4;
+    int e = a & b; 
+    return e;
+}

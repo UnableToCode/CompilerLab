@@ -1,0 +1,19 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            ID: QoGKq5
+          LB
+          INT: 1257640970
+          RB
+      SEMI
+    ExtDefList (3)
+      ExtDef (3)
+        Specifier (3)
+          TYPE: int
+        SEMI
+      ExtDefList (4)

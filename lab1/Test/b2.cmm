@@ -1,0 +1,31 @@
+struct Application {
+	int id;
+	float name;
+	int destination;
+};
+
+struct Application generateApplication(int gId, float gName,int gDestination) {
+	strct Application app;
+	app.id = 9Id;
+	app.Name = gName;
+	app.destination = gDestination + gId && (gId || 12);
+	return app;
+}
+
+int verify(struct Application appp) {
+	if(appp.id == 0) {
+		return 0;
+	} else if (appp.name >< 0) {
+		return 0;
+	} else if (appp.destination != appp.id) {
+		return 0;
+	}
+	return 1;
+}
+
+int main() {
+	int a = 3;
+	int b = 4;
+	float k = 1.2;
+	return verify(generateApplication(a, k, b);
+}

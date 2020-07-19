@@ -1,0 +1,25 @@
+struct FastFood {
+int yum;
+float price;
+};
+
+struct Burger {
+int juice;
+float bucks;
+};
+
+float buyAFood(float money) {
+	struct FastFood cheap;
+	struct Burger expensive;
+	float realMoney, Burger;
+	cheap.price = 1.3;
+	cheap.yum = 3;
+	expensive.bucks = 3.4;
+	if(cheap.yum == 4) {
+		realMoney = money - cheap.price;
+		return realMoney;
+	} else {
+		Burger = money - expensive.bucks;
+		return Burger;
+	}
+}

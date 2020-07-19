@@ -1,0 +1,54 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            VarDec (1)
+              VarDec (1)
+                ID: U2_kiei
+              LB
+              INT: 1226550768
+              RB
+            LB
+            INT: 2027288999
+            RB
+          LB
+          INT: 10705768
+          RB
+        COMMA
+        ExtDecList (2)
+          VarDec (2)
+            ID: EYpvRTU
+          COMMA
+          ExtDecList (2)
+            VarDec (2)
+              VarDec (2)
+                VarDec (2)
+                  VarDec (2)
+                    ID: Vpb3B0CsoatbJt
+                  LB
+                  INT: 2016583231
+                  RB
+                LB
+                INT: 557132254
+                RB
+              LB
+              INT: 493818847
+              RB
+            COMMA
+            ExtDecList (3)
+              VarDec (3)
+                ID: d5QIl0L1yJdZKa7wz1xP
+      SEMI
+    ExtDefList (8)
+      ExtDef (8)
+        Specifier (8)
+          TYPE: int
+        ExtDecList (8)
+          VarDec (8)
+            ID: pQK9mBd8kYz4brclXfG
+        SEMI
+      ExtDefList (10)

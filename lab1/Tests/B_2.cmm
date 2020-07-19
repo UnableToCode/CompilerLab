@@ -1,0 +1,34 @@
+int shsort(int s[4], int n)
+{
+    int i, j, d;
+    d = n / 2; 
+    while(d > = 1)
+    {
+        i = d + 1;
+        while (i <= n)
+        {
+            s[0] = s[i];
+            j  = i - d;
+            while((j > 0) && (s[0] < s[j]))
+            {
+                s[j + d] = s[j];
+                j = j - d;
+            }
+            s[j + d] = s[0];
+            i ++;
+        }
+        d = d / 2;
+    }
+    return 0;
+}
+int main()
+{
+    int a[4];
+    a[0] = 2; 
+    a[1] = 4; 
+    a[2] = 3; 
+    a[3]] = 1;
+    int n = 4;
+    shsort(a, n); 
+    return 0;
+}

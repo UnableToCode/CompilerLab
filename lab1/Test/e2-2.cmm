@@ -1,0 +1,7 @@
+float function()
+{
+	float a = 23.43E+3;
+	float b = 23.43E+.3;
+	float c = .e34;
+	return a;
+}

@@ -1,0 +1,54 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: float
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            VarDec (1)
+              VarDec (1)
+                ID: m_BIDg
+              LB
+              INT: 1130350743
+              RB
+            LB
+            INT: 1578855818
+            RB
+          LB
+          INT: 1633731540
+          RB
+        COMMA
+        ExtDecList (2)
+          VarDec (2)
+            VarDec (2)
+              VarDec (2)
+                VarDec (2)
+                  VarDec (2)
+                    ID: OAPWi
+                  LB
+                  INT: 395763306
+                  RB
+                LB
+                INT: 486518648
+                RB
+              LB
+              INT: 1964018987
+              RB
+            LB
+            INT: 1104926302
+            RB
+          COMMA
+          ExtDecList (3)
+            VarDec (3)
+              VarDec (3)
+                VarDec (3)
+                  ID: Un13SI
+                LB
+                INT: 222549583
+                RB
+              LB
+              INT: 321059751
+              RB
+      SEMI
+    ExtDefList (8)

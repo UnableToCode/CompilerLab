@@ -1,0 +1,200 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          Tag (1)
+            ID: RkGfx7
+      FunDec (1)
+        ID: CaJC2sAz6J3gXWX
+        LP
+        VarList (1)
+          ParamDec (1)
+            Specifier (1)
+              TYPE: float
+            VarDec (1)
+              VarDec (1)
+                ID: g7nCmm0F
+              LB
+              INT: 1660071509
+              RB
+          COMMA
+          VarList (2)
+            ParamDec (2)
+              Specifier (2)
+                TYPE: int
+              VarDec (2)
+                ID: Hlfw1W9JRjFkq4
+        RP
+      CompSt (2)
+        LC
+        DefList (3)
+          Def (3)
+            Specifier (3)
+              TYPE: int
+            DecList (3)
+              Dec (3)
+                VarDec (3)
+                  ID: fQQR5j8GhAJFhXSACsIv
+            SEMI
+          DefList (4)
+        StmtList (4)
+        RC
+    ExtDefList (5)
+      ExtDef (5)
+        Specifier (5)
+          StructSpecifier (5)
+            STRUCT
+            OptTag (5)
+            LC
+            DefList (6)
+              Def (6)
+                Specifier (6)
+                  StructSpecifier (6)
+                    STRUCT
+                    OptTag (6)
+                      ID: iEfAUqntPNj3
+                    LC
+                    DefList (7)
+                    RC
+                DecList (7)
+                  Dec (7)
+                    VarDec (7)
+                      VarDec (7)
+                        ID: ZAkp6c
+                      LB
+                      INT: 1911716016
+                      RB
+                SEMI
+              DefList (8)
+            RC
+        ExtDecList (8)
+          VarDec (8)
+            VarDec (8)
+              ID: bB
+            LB
+            INT: 2021104781
+            RB
+          COMMA
+          ExtDecList (8)
+            VarDec (8)
+              VarDec (8)
+                VarDec (8)
+                  ID: qLkTqL80KjtbH4cKrvEn
+                LB
+                INT: 1175868618
+                RB
+              LB
+              INT: 702265684
+              RB
+            COMMA
+            ExtDecList (9)
+              VarDec (9)
+                ID: f8e
+        SEMI
+      ExtDefList (13)
+        ExtDef (13)
+          Specifier (13)
+            TYPE: float
+          FunDec (13)
+            ID: d6KXQ8QBqMamFCA
+            LP
+            VarList (13)
+              ParamDec (13)
+                Specifier (13)
+                  StructSpecifier (13)
+                    STRUCT
+                    OptTag (13)
+                    LC
+                    DefList (14)
+                    RC
+                VarDec (14)
+                  ID: RiLQYq0M4hgIB
+            RP
+          CompSt (14)
+            LC
+            DefList (15)
+              Def (15)
+                Specifier (15)
+                  StructSpecifier (15)
+                    STRUCT
+                    Tag (15)
+                      ID: hz3Yu
+                DecList (15)
+                  Dec (15)
+                    VarDec (15)
+                      ID: fpjDQRk_PtFNupdZM
+                  COMMA
+                  DecList (15)
+                    Dec (15)
+                      VarDec (15)
+                        ID: mCFw94hmbVRe5d0
+                SEMI
+              DefList (17)
+            StmtList (17)
+              Stmt (17)
+                Exp (17)
+                  Exp (17)
+                    Exp (17)
+                      Exp (17)
+                        Exp (17)
+                          Exp (17)
+                            Exp (17)
+                              Exp (17)
+                                Exp (17)
+                                  Exp (17)
+                                    Exp (17)
+                                      Exp (17)
+                                        Exp (17)
+                                          Exp (17)
+                                            Exp (17)
+                                              ID: NXU6fOqqmDKSk
+                                              LP
+                                              RP
+                                            MINUS
+                                            Exp (17)
+                                              ID: _
+                                          RELOP: LT
+                                          Exp (17)
+                                            ID: RIa4hEEM
+                                        RELOP: GE
+                                        Exp (17)
+                                          ID: xt6wnInuG
+                                      RELOP: EQ
+                                      Exp (18)
+                                        ID: lt6K1
+                                    RELOP: GT
+                                    Exp (18)
+                                      ID: Ef7j
+                                  RELOP: LE
+                                  Exp (18)
+                                    ID: PU6O3h8Gj60ICK
+                                RELOP: EQ
+                                Exp (18)
+                                  ID: IPJ1b
+                              RELOP: GE
+                              Exp (18)
+                                ID: s8j9JyMMY
+                            RELOP: LT
+                            Exp (19)
+                              ID: brklwOeav
+                          RELOP: LE
+                          Exp (19)
+                            ID: GB35PzoT
+                        RELOP: EQ
+                        Exp (19)
+                          ID: JPc
+                      RELOP: NE
+                      Exp (19)
+                        ID: jUxHAKO
+                    RELOP: EQ
+                    Exp (19)
+                      ID: AkXf
+                  AND
+                  Exp (20)
+                    ID: Re
+                SEMI
+              StmtList (21)
+            RC
+        ExtDefList (22)

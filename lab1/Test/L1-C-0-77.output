@@ -1,0 +1,33 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          Tag (1)
+            ID: qP
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            ID: Myj79TxoyNZngKMBBU
+          LB
+          INT: 831275623
+          RB
+        COMMA
+        ExtDecList (1)
+          VarDec (1)
+            ID: mqN1GWzx3iFPTsPqoy
+          COMMA
+          ExtDecList (2)
+            VarDec (2)
+              ID: QmWBHdOK
+            COMMA
+            ExtDecList (2)
+              VarDec (2)
+                ID: x3kUkWLXbH8U9
+              COMMA
+              ExtDecList (2)
+                VarDec (2)
+                  ID: AtoezLi0yk
+      SEMI
+    ExtDefList (8)

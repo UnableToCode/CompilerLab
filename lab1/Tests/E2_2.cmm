@@ -1,0 +1,6 @@
+float function()
+{
+    float a = 12.34e+;
+    float b = .e;
+    float c = .e-2;
+}

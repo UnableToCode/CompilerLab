@@ -1,0 +1,15 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: float
+      FunDec (1)
+        ID: qIhmwihftyBwHrRP
+        LP
+        RP
+      CompSt (1)
+        LC
+        DefList (2)
+        StmtList (2)
+        RC
+    ExtDefList (3)

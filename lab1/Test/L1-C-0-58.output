@@ -1,0 +1,46 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: float
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            VarDec (1)
+              VarDec (1)
+                VarDec (1)
+                  VarDec (1)
+                    ID: WifXEM
+                  LB
+                  INT: 2057208462
+                  RB
+                LB
+                INT: 1621506566
+                RB
+              LB
+              INT: 1295010705
+              RB
+            LB
+            INT: 1514061047
+            RB
+          LB
+          INT: 53077938
+          RB
+        COMMA
+        ExtDecList (2)
+          VarDec (2)
+            VarDec (2)
+              ID: A77DuqZxJJIeKTlEg
+            LB
+            INT: 326495861
+            RB
+          COMMA
+          ExtDecList (3)
+            VarDec (3)
+              VarDec (3)
+                ID: Bmj4ysH3vMfGPD
+              LB
+              INT: 1573144888
+              RB
+      SEMI
+    ExtDefList (7)

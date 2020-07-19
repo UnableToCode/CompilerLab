@@ -1,0 +1,18 @@
+struct Student
+{
+    int SID;
+    int age;
+    struct Teacher
+    {
+        int TID;
+    } t;
+};
+
+int main()
+{
+    struct Student s1;
+    s1.SID = 1;
+    s1.age = 18;
+    s1.t.TID = 3;
+    return s1;
+}

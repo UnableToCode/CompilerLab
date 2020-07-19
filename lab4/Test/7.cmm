@@ -1,0 +1,12 @@
+struct Test7_a {
+	int a;
+	float b;
+};
+struct Test7_b {
+	float c;
+}
+
+int test7() {
+	struct Test7_a aa[10];
+	return aa[0].a;
+}

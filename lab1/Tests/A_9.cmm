@@ -1,0 +1,14 @@
+int max(int x,int y)
+{
+    int t;
+    if (x > y)
+        t = x;
+    else
+        t = y
+    return t;
+}
+int main()
+{
+    int a = 6,b = 4,c = 5;
+    int maxs=max(a,max(b,c));
+}

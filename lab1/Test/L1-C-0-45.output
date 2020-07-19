@@ -1,0 +1,112 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      FunDec (1)
+        ID: yaMfP
+        LP
+        VarList (1)
+          ParamDec (1)
+            Specifier (1)
+              TYPE: int
+            VarDec (1)
+              VarDec (1)
+                VarDec (1)
+                  VarDec (1)
+                    VarDec (1)
+                      ID: Mu
+                    LB
+                    INT: 2009813756
+                    RB
+                  LB
+                  INT: 419449589
+                  RB
+                LB
+                INT: 901174388
+                RB
+              LB
+              INT: 1739286553
+              RB
+        RP
+      CompSt (2)
+        LC
+        DefList (3)
+          Def (3)
+            Specifier (3)
+              TYPE: int
+            DecList (3)
+              Dec (3)
+                VarDec (3)
+                  VarDec (3)
+                    ID: U7PdJ
+                  LB
+                  INT: 1876901012
+                  RB
+                ASSIGNOP
+                Exp (3)
+                  ID: PQrwxuUMPKXQ9i2y5
+              COMMA
+              DecList (3)
+                Dec (3)
+                  VarDec (3)
+                    ID: CUOLIjibxMn6
+            SEMI
+          DefList (5)
+        StmtList (5)
+          Stmt (5)
+            WHILE
+            LP
+            Exp (5)
+              ID: Zfyru0ld
+            RP
+            Stmt (5)
+              Exp (5)
+                ID: rlZGIGpGnM6WDht
+              SEMI
+          StmtList (7)
+            Stmt (7)
+              IF
+              LP
+              Exp (7)
+                ID: sIHNZAJrE6TMlob
+              RP
+              Stmt (7)
+                IF
+                LP
+                Exp (7)
+                  ID: AxDK
+                RP
+                Stmt (7)
+                  IF
+                  LP
+                  Exp (7)
+                    ID: IrHCs8uybGRyRU
+                  RP
+                  Stmt (8)
+                    Exp (8)
+                      ID: pdMdPF2HU7QCr58Egx
+                    SEMI
+            StmtList (12)
+        RC
+    ExtDefList (13)
+      ExtDef (13)
+        Specifier (13)
+          TYPE: float
+        FunDec (13)
+          ID: wUwrHnlBad
+          LP
+          RP
+        CompSt (13)
+          LC
+          DefList (14)
+          StmtList (14)
+            Stmt (14)
+              CompSt (14)
+                LC
+                DefList (15)
+                StmtList (15)
+                RC
+            StmtList (15)
+          RC
+      ExtDefList (16)

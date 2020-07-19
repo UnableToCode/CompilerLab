@@ -1,0 +1,38 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: float
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            VarDec (1)
+              VarDec (1)
+                VarDec (1)
+                  VarDec (1)
+                    VarDec (1)
+                      VarDec (1)
+                        ID: pmp
+                      LB
+                      INT: 775653641
+                      RB
+                    LB
+                    INT: 678929299
+                    RB
+                  LB
+                  INT: 1393270489
+                  RB
+                LB
+                INT: 836836486
+                RB
+              LB
+              INT: 1009373573
+              RB
+            LB
+            INT: 1693452874
+            RB
+          LB
+          INT: 534017495
+          RB
+      SEMI
+    ExtDefList (5)

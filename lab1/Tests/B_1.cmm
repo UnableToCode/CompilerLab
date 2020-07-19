@@ -1,0 +1,28 @@
+struct Student
+{
+    int ID,
+    float score;
+}class[2];
+
+struct Student test(struct Student a) 
+{
+	return a;
+}
+
+int main()
+{
+    int i = 0, n = 2;
+    float sum = 0;
+    struct Student classes[n][10];
+    class[0].ID = 1;
+    class[0].score = 90;
+    class[1].ID = 2;
+    class[1].score = .85 * 100;
+    test(class[0]);
+    while (i < 2)
+    {
+        sum += class[i].score;
+        i = i + 1;
+    }
+    return 0;
+}

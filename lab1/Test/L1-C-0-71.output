@@ -1,0 +1,42 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      FunDec (1)
+        ID: q9d
+        LP
+        RP
+      CompSt (1)
+        LC
+        DefList (2)
+          Def (2)
+            Specifier (2)
+              TYPE: float
+            DecList (2)
+              Dec (2)
+                VarDec (2)
+                  ID: zUJFaj8OrSuL0F
+            SEMI
+          DefList (3)
+        StmtList (3)
+        RC
+    ExtDefList (4)
+      ExtDef (4)
+        Specifier (4)
+          StructSpecifier (4)
+            STRUCT
+            OptTag (4)
+              ID: iFwxVDBa
+            LC
+            DefList (5)
+            RC
+        ExtDecList (5)
+          VarDec (5)
+            ID: iLEPkWTwlk
+          COMMA
+          ExtDecList (5)
+            VarDec (5)
+              ID: raEyqy
+        SEMI
+      ExtDefList (8)

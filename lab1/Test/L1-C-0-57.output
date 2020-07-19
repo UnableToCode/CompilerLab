@@ -1,0 +1,17 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          Tag (1)
+            ID: BkNHdfmlfyJ9
+      ExtDecList (1)
+        VarDec (1)
+          ID: c9Dn6CaR9Bjn
+        COMMA
+        ExtDecList (1)
+          VarDec (1)
+            ID: hDq02BNoHUt5FRjaoy4k
+      SEMI
+    ExtDefList (4)

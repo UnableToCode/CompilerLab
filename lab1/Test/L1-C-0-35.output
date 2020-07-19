@@ -1,0 +1,27 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      FunDec (1)
+        ID: Eg
+        LP
+        RP
+      CompSt (1)
+        LC
+        DefList (2)
+        StmtList (2)
+          Stmt (2)
+            CompSt (2)
+              LC
+              DefList (3)
+              StmtList (3)
+              RC
+          StmtList (3)
+        RC
+    ExtDefList (4)
+      ExtDef (4)
+        Specifier (4)
+          TYPE: int
+        SEMI
+      ExtDefList (5)

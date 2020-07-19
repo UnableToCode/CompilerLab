@@ -1,0 +1,21 @@
+/***comment
+still
+*/
+/* ////\\asfdlkajhsldf\\\\<>@#$
+*/
+int main() //a function
+{
+    float h, s; int i;
+    h = s = 100 //;
+    h = h / 2; // first
+    i = 2;
+    /* a new comment*/
+    while (i <= 10) //\\\//\\/*
+    {
+        s = s + 2 * h;
+        h = h / 2 /*\/\/\/\/\*\/\/\\****\/*/;
+        i = i + 1;
+    }
+    return 0;
+}
+/**end ~??

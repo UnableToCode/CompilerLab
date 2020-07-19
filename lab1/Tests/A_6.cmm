@@ -1,0 +1,10 @@
+int a = 1;
+int add(int b)
+{
+    return a + b;
+}
+int main()
+{
+    int sum;
+    sum = add(2);
+}

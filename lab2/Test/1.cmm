@@ -1,0 +1,5 @@
+int 1Wrong()
+{
+	int _1Correct;
+	return 1;
+}

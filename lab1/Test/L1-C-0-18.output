@@ -1,0 +1,14 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            ID: X3P_noKasXpuFYF
+          LB
+          INT: 385421825
+          RB
+      SEMI
+    ExtDefList (3)

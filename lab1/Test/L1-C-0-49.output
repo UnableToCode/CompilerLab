@@ -1,0 +1,84 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          Tag (1)
+            ID: W3RCt
+      FunDec (1)
+        ID: nLXUI
+        LP
+        VarList (1)
+          ParamDec (1)
+            Specifier (1)
+              StructSpecifier (1)
+                STRUCT
+                OptTag (1)
+                  ID: WY2uR6bR
+                LC
+                DefList (2)
+                  Def (2)
+                    Specifier (2)
+                      TYPE: int
+                    DecList (2)
+                      Dec (2)
+                        VarDec (2)
+                          VarDec (2)
+                            VarDec (2)
+                              ID: fsM8BONDGWeLBuCXvV
+                            LB
+                            INT: 1356891419
+                            RB
+                          LB
+                          INT: 1930190656
+                          RB
+                    SEMI
+                  DefList (4)
+                    Def (4)
+                      Specifier (4)
+                        TYPE: int
+                      DecList (4)
+                        Dec (4)
+                          VarDec (4)
+                            ID: Mvdsk
+                          ASSIGNOP
+                          Exp (4)
+                            ID: GFelcOc4lMh
+                      SEMI
+                    DefList (5)
+                      Def (5)
+                        Specifier (5)
+                          TYPE: float
+                        DecList (5)
+                          Dec (5)
+                            VarDec (5)
+                              VarDec (5)
+                                VarDec (5)
+                                  ID: u1ILnEQXSZB_htFnclMG
+                                LB
+                                INT: 1130947617
+                                RB
+                              LB
+                              INT: 2088611419
+                              RB
+                            ASSIGNOP
+                            Exp (6)
+                              ID: wMqiPjv1QfWTzEWKc
+                          COMMA
+                          DecList (6)
+                            Dec (6)
+                              VarDec (6)
+                                ID: qBCs8S
+                        SEMI
+                      DefList (7)
+                RC
+            VarDec (7)
+              ID: m3dvV
+        RP
+      CompSt (7)
+        LC
+        DefList (8)
+        StmtList (8)
+        RC
+    ExtDefList (9)

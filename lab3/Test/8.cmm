@@ -1,0 +1,20 @@
+struct Test8_a {
+	int a;
+};
+
+struct Test8_b {
+	float b;
+} bb;
+
+int test8() {
+	struct Test8_c {
+		int c;
+	} cc;
+	struct Test8_d {
+		int d;
+		struct test8_d_d{
+			int ddd;
+		};
+	} dd;
+	return 8;
+}

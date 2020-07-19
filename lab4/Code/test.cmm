@@ -1,0 +1,13 @@
+int func(int i, int j) {
+    int a[2];
+    a[0] = 1;
+    a[1] = 2;
+    return a[i] + a[j];
+}
+
+int main() {
+    int t;
+    t = func(0, 1);
+    write(t);
+    return 0;
+}

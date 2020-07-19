@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "semantic.h": "c",
+        "xlocale": "c",
+        "xlocnum": "c",
+        "xiosbase": "c"
+    }
+}

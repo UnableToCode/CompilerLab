@@ -1,0 +1,65 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            ID: ELTJVD_FfStaw0epRg
+          LB
+          INT: 1129615246
+          RB
+      SEMI
+    ExtDefList (3)
+      ExtDef (3)
+        Specifier (3)
+          TYPE: int
+        FunDec (3)
+          ID: o07RIf40coUomw
+          LP
+          VarList (3)
+            ParamDec (3)
+              Specifier (3)
+                TYPE: int
+              VarDec (3)
+                VarDec (3)
+                  VarDec (3)
+                    ID: REmJ8mULZpJcmVr
+                  LB
+                  INT: 745571622
+                  RB
+                LB
+                INT: 826350082
+                RB
+            COMMA
+            VarList (4)
+              ParamDec (4)
+                Specifier (4)
+                  TYPE: float
+                VarDec (4)
+                  ID: MoqM3OewY
+              COMMA
+              VarList (4)
+                ParamDec (4)
+                  Specifier (4)
+                    TYPE: int
+                  VarDec (4)
+                    ID: sNI
+          RP
+        CompSt (4)
+          LC
+          DefList (5)
+          StmtList (5)
+          RC
+      ExtDefList (6)
+        ExtDef (6)
+          Specifier (6)
+            TYPE: float
+          SEMI
+        ExtDefList (7)
+          ExtDef (7)
+            Specifier (7)
+              TYPE: float
+            SEMI
+          ExtDefList (8)

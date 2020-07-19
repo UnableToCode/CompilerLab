@@ -1,0 +1,8 @@
+int test_for_wrong_oct_number()
+{
+	int _correct_oct_number_ = 006772;
+	int _decimal_number = 8092;
+	int _wrong_oct_number_ = 08092;
+	int _correct_oct_number2_ = 000000003345;
+	return 0;
+}

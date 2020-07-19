@@ -1,0 +1,6 @@
+int test4() {
+	int a = 1;
+	float t = 3.1;
+	int c[t];
+	return a;
+}

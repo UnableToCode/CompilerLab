@@ -1,0 +1,24 @@
+/*
+**This is a test for comments
+/\\\\\\\\\\\\\\\\\\\/
+/
+*/
+int /*/**/F(int n) // {%^@#~~~ //
+{	
+    /****8
+    int i = 0;
+    ****\*/ 
+    if(n == 0)
+    //
+        return 1; /*}  \\\
+	\\
+	*/
+    return n * F(n - 1);
+}
+int main() //b > a comments*//\\//*
+{	
+    int n, r;	
+    n = 10;
+    r = F(n);//\\*//\\*//\\////\\*//\\
+    return /*ends\/\/\/\/\/\/*/0;
+} 

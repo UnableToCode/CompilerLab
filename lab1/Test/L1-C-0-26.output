@@ -1,0 +1,18 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: float
+      ExtDecList (1)
+        VarDec (1)
+          VarDec (1)
+            VarDec (1)
+              ID: cfdP0u_RZDYvu
+            LB
+            INT: 1995602854
+            RB
+          LB
+          INT: 740550256
+          RB
+      SEMI
+    ExtDefList (3)

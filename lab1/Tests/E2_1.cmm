@@ -1,0 +1,8 @@
+float function()
+{
+    float x1 = 002.45E10;
+    float x2 = 45.e-1.1;
+    float x3 = .45e-3;
+    float x4 = 34.34E+1.2;
+    return x1 + x3;
+}

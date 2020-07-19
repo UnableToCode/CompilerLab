@@ -1,0 +1,87 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          Tag (1)
+            ID: n1kZSNs1trVBo
+      SEMI
+    ExtDefList (2)
+      ExtDef (2)
+        Specifier (2)
+          TYPE: float
+        FunDec (2)
+          ID: FG
+          LP
+          RP
+        CompSt (2)
+          LC
+          DefList (3)
+            Def (3)
+              Specifier (3)
+                TYPE: float
+              DecList (3)
+                Dec (3)
+                  VarDec (3)
+                    VarDec (3)
+                      VarDec (3)
+                        VarDec (3)
+                          VarDec (3)
+                            ID: GX_CGmT93h9B1UPavB
+                          LB
+                          INT: 1435778835
+                          RB
+                        LB
+                        INT: 1247596061
+                        RB
+                      LB
+                      INT: 723421692
+                      RB
+                    LB
+                    INT: 753359305
+                    RB
+                COMMA
+                DecList (4)
+                  Dec (4)
+                    VarDec (4)
+                      ID: gqi
+              SEMI
+            DefList (5)
+              Def (5)
+                Specifier (5)
+                  TYPE: int
+                DecList (5)
+                  Dec (5)
+                    VarDec (5)
+                      ID: c_pvfTejPBjVkgTxrGT
+                SEMI
+              DefList (6)
+          StmtList (6)
+          RC
+      ExtDefList (7)
+        ExtDef (7)
+          Specifier (7)
+            TYPE: int
+          ExtDecList (7)
+            VarDec (7)
+              VarDec (7)
+                ID: _rGWg6yaiU8anlXymHZw
+              LB
+              INT: 175492396
+              RB
+          SEMI
+        ExtDefList (9)
+          ExtDef (9)
+            Specifier (9)
+              TYPE: int
+            FunDec (9)
+              ID: uo5e
+              LP
+              RP
+            CompSt (9)
+              LC
+              DefList (10)
+              StmtList (10)
+              RC
+          ExtDefList (11)

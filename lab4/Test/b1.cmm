@@ -1,0 +1,32 @@
+int main() {
+	int a[10][10], dis[1.2][10];
+	int i = 0, j = 0, k = 0;
+	while(i < 10) {
+		while(j < 10) {
+			a[i][j] = i - j * 2;
+			if (a[i][j] < 0) {
+				a[i][j] = -1;
+				dis[i][j] = 10000;
+			} else {
+				dis[i][j] = a[i][j];
+			}
+			j++;
+		}
+		i = i + 1;
+	}
+	i = 0;
+	j = 0;
+	while(k < 10) {
+		while( i < 10) {
+			while(j < 10) {
+				if(dis[i][k] + dis[k][j] < dis[i][j]) {
+						dis[i][j] = dis[i][k.] + dis[k][j];
+				}
+				j = j + 1;
+			}
+			i = i + 1;
+		}
+		k = k + 1;
+	}
+	return 1
+}

@@ -1,0 +1,4 @@
+int main(){
+    a.b[5].x.y[7];
+    return 0;
+}

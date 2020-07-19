@@ -1,0 +1,21 @@
+int MatrixMax(int a[3][4])
+{
+    int i=0,j=0;
+    int max,max_i=0,max_j=0;
+    max = a[0][0];
+    while(i < 3)
+    {
+        while(j < 4)
+        {
+            if(a[i][j] > max)
+            {
+                max=a[i][j];
+                max_i=i;
+                max_j=j;
+            }
+            j = j + 1;
+        }
+        i = i + 1;
+    }
+    return 0;
+}

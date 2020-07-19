@@ -1,0 +1,10 @@
+int float_test()
+{
+    float X_1 = 3.80e-7;
+    float X_2 = 345.2e+4;
+    float X_3 = 2.76E+3;
+    float X_4 = .994E-2;
+    float X_5 = 11.e1;
+    float X_6 = -0.4E-03;
+    float result = (15.E-1 + X_3) + X_6;
+}

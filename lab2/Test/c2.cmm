@@ -1,0 +1,28 @@
+int verify(int ready) {
+	int tem = 0;
+	int i = 2;
+	int last = ready / 4;
+	while(i < last) {
+		tem = ready / i;
+		if (tem * i == ready) {
+			return 0;
+		}
+		i = i + 1;
+	}
+	return 1;
+}
+
+int main() {
+	int numbers[100];
+	int count = 0;
+	int j = 142;
+	int max = 242;
+	while(j < max) {
+		if(verify(j) == 1) {
+			numbers[count] = j;
+			count = count + 1;
+		}
+		j = j + 1;
+	}
+	return count;
+}

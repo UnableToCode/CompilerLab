@@ -1,0 +1,10 @@
+struct Date
+{
+    int year, month;
+    int day;
+};
+int main()
+{
+    Date d[10];
+    d[0].year = 2020;
+}

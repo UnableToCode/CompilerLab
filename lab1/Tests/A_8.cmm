@@ -1,0 +1,15 @@
+int main()
+{
+    struct A
+    {
+        int a;
+        float b;
+    };
+    struct A a[100];
+    int i = 0;
+    while (i < 100)
+    {
+        a[i].a = a[i].b = 0;
+        i = i + 1;
+    }
+}

@@ -1,0 +1,15 @@
+int test9_a(int aa) {
+	return aa + 3;
+}
+
+int test9_b(int bb, float fb) {
+	int tb = 3;
+	return bb + tb;
+}
+
+int test9() {
+	int a = 3;
+	test9_a(a);
+	test9_b(a, 0.2);
+	return test9(test9_b(test9(test9_a(a)),1.2);
+}

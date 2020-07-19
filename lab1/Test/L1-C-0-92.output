@@ -1,0 +1,48 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: float
+      FunDec (1)
+        ID: PI0Q4kGxH_
+        LP
+        RP
+      CompSt (1)
+        LC
+        DefList (2)
+        StmtList (2)
+          Stmt (2)
+            IF
+            LP
+            Exp (2)
+              ID: rj7IYMna0axjzT
+            RP
+            Stmt (2)
+              Exp (2)
+                ID: EDQxw1DywkQ4
+              SEMI
+            ELSE
+            Stmt (3)
+              IF
+              LP
+              Exp (3)
+                ID: EQpr_xtzx8xQ
+              RP
+              Stmt (3)
+                Exp (3)
+                  ID: NHSsJBKqyw
+                SEMI
+          StmtList (6)
+            Stmt (6)
+              IF
+              LP
+              Exp (6)
+                ID: EavbAXT
+              RP
+              Stmt (6)
+                Exp (6)
+                  ID: IuwNLmkbL
+                SEMI
+            StmtList (8)
+        RC
+    ExtDefList (9)

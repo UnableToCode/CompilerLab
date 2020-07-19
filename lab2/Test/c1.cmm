@@ -1,0 +1,18 @@
+struct Player{
+	int name;
+	int ready;
+} player1;
+
+struct Game{
+	struct Player players[10];
+	int id;
+} game1;
+
+int main() {
+	struct Set {
+		struct Game games[10];
+	} one;
+	one.games[0] = game1;
+	one.games[0].players[0] = player1;
+	return one.games[0].players[0].ready;
+}

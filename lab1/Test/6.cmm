@@ -1,0 +1,13 @@
+int test6()
+{
+	int i = 0, b;
+	float t = 12.3;
+	int c[10][3];
+	b = 10;
+	while(b > i) {
+		b = b - 1;
+		i = i + 1;
+		c[b,i] = c[b][i] + 1;
+	}
+	return c[0][0];
+}

@@ -1,0 +1,24 @@
+/****
+* @param int a
+*/
+int main()
+{
+    /*   TODO
+        	definition 12345
+    	*/
+    int day,x1,x2;
+    day = 9 /* this is okay*/;
+    x2 = 1;
+    // \\\\\/////\\\\\\~~///////\\\\\\\*/
+    while(day> /*>=<*/ 0)
+    {
+        x1=(x2+1)*2;
+        /*
+	    //////\\\\\\\/////>
+	    /* \\\\\\\\'''''' this is not okay!! */
+        */
+        x2=x1;
+        day = day - 1; 
+    }// assert(day == ?);
+    return /*-1;*/0;
+}

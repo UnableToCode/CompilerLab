@@ -1,0 +1,19 @@
+//there is a comment
+/* this is also a comment
+still in the comment
+*/
+// /*this is a single comment*/
+int main () {
+	int a,b /* this is okay*/;
+	a = 3;
+	// \\\\\/////\\\\\\///////\\\\\\\*/
+	/* /* /////// a lot ////////a\\\\\\\\\/////
+	/////* /* /*
+	*/
+	b = a + 4;
+	while(a < /* >_< ////// ///// */ b) {
+		a = a + a;
+		b = b + 4;
+	}
+	return a;
+}
