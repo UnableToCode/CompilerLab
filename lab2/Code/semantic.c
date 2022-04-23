@@ -1058,7 +1058,6 @@ pType Exp(pNode node) {
                     !p1->u.structure.structName) {
                     //报错，对非结构体使用.运算符
                     pError(ILLEGAL_USE_DOT, t->lineNo, "Illegal use of \".\".");
-                    if (p1) deleteType(p1);
                 } else {
                     pNode ref_id = t->next->next;
                     pFieldList structfield = p1->u.structure.field;
